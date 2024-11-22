@@ -1,0 +1,23 @@
+[submodule "contrib/openwrt"]
+	path = contrib/openwrt
+	url = git@github.com:jacksonhansen41/openwrt.git
+[submodule "openwrt"]
+	path = contrib/openwrt
+	url = git@github.com:jacksonhansen41/openwrt.git
+	branch = openwrt-24.10
+[submodule "contrib/openwrt-packages"]
+	path = contrib/openwrt-packages
+	url = git@github.com:jacksonhansen41/packages.git
+	branch = openwrt-24.10
+[submodule "contrib/openwrt-luci"]
+	path = contrib/openwrt-luci
+	url = git@github.com:jacksonhansen41/luci.git
+	branch = openwrt-24.10
+[submodule "contrib/openwrt-routing"]
+	path = contrib/openwrt-routing
+	url = git@github.com:jacksonhansen41/routing.git
+	branch = openwrt-24.10
+[submodule "contrib/openwrt-telephony"]
+	path = contrib/openwrt-telephony
+	url = git@github.com:jacksonhansen41/telephony.git
+	branch = openwrt-24.10
